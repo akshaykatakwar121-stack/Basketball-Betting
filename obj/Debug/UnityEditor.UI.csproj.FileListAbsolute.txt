@@ -1,0 +1,10 @@
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\UnityEditor.UI.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\UnityEdi.F134638D.Up2Date
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\UnityEditor.UI.dll
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\UnityEditor.UI.pdb

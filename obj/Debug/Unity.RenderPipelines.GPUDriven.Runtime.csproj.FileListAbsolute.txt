@@ -1,0 +1,10 @@
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\Unity.RenderPipelines.GPUDriven.Runtime.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\Unity.RenderPipelines.Core.Runtime.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\Unity.RenderPipelines.GPUDriven.Runtime.csproj.AssemblyReference.cache
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\Unity.RenderPipelines.GPUDriven.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\Unity.Re.3BC3B376.Up2Date
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\Akshay\Downloads\basketball\Hoops-Unity-Project-2026-09-14\Basketball Betting\obj\Debug\Unity.RenderPipelines.GPUDriven.Runtime.pdb

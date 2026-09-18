@@ -1,0 +1,406 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.13f1 (8c4f11e4fb20) revision 9195281'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Akshay" at "2026-09-18T10:42:24.3312447Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'en' Physical Memory: 32721 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-18T10:42:24Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Akshay/Downloads/basketball/Hoops-Unity-Project-2026-09-14/Basketball Betting
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57243
+-licensingIpc
+LicenseClient-Akshay
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Akshay/Downloads/basketball/Hoops-Unity-Project-2026-09-14/Basketball Betting
+C:/Users/Akshay/Downloads/basketball/Hoops-Unity-Project-2026-09-14/Basketball Betting
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [36456]  Target information:
+
+Player connection [36456]  * "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 474164910 [EditorId] 474164910 [Version] 1048832 [Id] WindowsEditor(7,AkshayGOD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [36456] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [36456] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.13f1 (8c4f11e4fb20)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Akshay/Downloads/basketball/Hoops-Unity-Project-2026-09-14/Basketball Betting/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.9636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Akshay"
+[Licensing::IpcConnector] LicenseClient-Akshay channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Akshay-6000.3.13" at "2026-09-18T10:42:27.5532127Z"
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              b4a8c3cc767a4b0181e4ebab67e68796
+  Correlation Id:          5e93026b5c0b11c00edbe502aa1f5ea4
+  External correlation Id: 7504210227470562125
+  Machine Id:              3NfW/rOMhHNi3qXUenoIsbRB2l4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Akshay-6000.3.13" (connect: 0.00s, validation: 0.00s, handshake: 2.69s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Akshay-6000.3.13-notifications" at "2026-09-18T10:42:30.2555311Z"
+[Licensing::Module] Licensing Background thread has ended after 5.92s
+[Licensing::Module] Licensing is initialized (took 4.60s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-3PM3-ADE2-V2GM-5WSR-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: 2026-10-26T11:41:56Z
+[Licensing::Module] License group:
+  Id: 13469192146326-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-3PM3-ADE2-V2GM-5WSR-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: 2026-10-26T11:41:56Z
+[Licensing::Module] License group:
+  Id: 13469192146326-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 4.696668 seconds.
+- Loaded All Assemblies, in  7.018 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.645 seconds
+Domain Reload Profiling: 7659ms
+	BeginReloadAssembly (220ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (4771ms)
+	LoadAllAssembliesAndSetupDomain (1936ms)
+		LoadAssemblies (559ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1585ms)
+			TypeCache.Refresh (1582ms)
+				TypeCache.ScanAssembly (1323ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (645ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (600ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (221ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (108ms)
+			ProcessInitializeOnLoadAttributes (176ms)
+			ProcessInitializeOnLoadMethodAttributes (91ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-3PM3-ADE2-V2GM-5WSR-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: 2026-10-26T11:41:56Z
+[Licensing::Module] License group:
+  Id: 13469192146326-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in 16.274 seconds
+Refreshing native plugins compatible for Editor in 84.26 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 3.49 ms, found 4 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.967 seconds
+Domain Reload Profiling: 18233ms
+	BeginReloadAssembly (7752ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (456ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (7987ms)
+		LoadAssemblies (14891ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (744ms)
+			TypeCache.Refresh (629ms)
+				TypeCache.ScanAssembly (605ms)
+			BuildScriptInfoCaches (95ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1968ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1088ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (302ms)
+			ProcessInitializeOnLoadAttributes (597ms)
+			ProcessInitializeOnLoadMethodAttributes (148ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 7.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6507 unused Assets / (3.9 MB). Loaded Objects now: 7301.
+Memory consumption went from 152.4 MB to 148.5 MB.
+Total: 19.866800 ms (FindLiveObjects: 1.704600 ms CreateObjectMapping: 1.086500 ms MarkObjects: 11.177000 ms  DeleteObjects: 5.895400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 175871.744745 seconds.
+  path: Assets/Settings/DefaultVolumeProfile.asset
+  artifactKey: Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Settings/DefaultVolumeProfile.asset using Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4a96a416181b391b9552b4c1731cfcfb') in 0.2221706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth_7_3.asset
+  artifactKey: Guid(f9a0c5a8575157944a8d00b35c47cd50) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth_7_3.asset using Guid(f9a0c5a8575157944a8d00b35c47cd50) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '31ab7c7fed2e23d7852e65865fc65cd5') in 0.0494914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth_2_2.asset
+  artifactKey: Guid(d4bf8c57cac91ad429d5879e6bdefbe3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth_2_2.asset using Guid(d4bf8c57cac91ad429d5879e6bdefbe3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd56a37b1cf04391cfb850b36e4ecb8df') in 0.0372431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdNorth_2_2.asset
+  artifactKey: Guid(0445f2c4e0a30ba4c8881bb40a82c161) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdNorth_2_2.asset using Guid(0445f2c4e0a30ba4c8881bb40a82c161) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e73a5c3b9e7289eb87fbc4f2ce3c36f8') in 0.0374892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth_5_3.asset
+  artifactKey: Guid(135b79235eea8cc41a3bf0859f392b71) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth_5_3.asset using Guid(135b79235eea8cc41a3bf0859f392b71) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '690e8ef4b1d7a29ac64c5d0e48c6e254') in 0.0378885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/BasketballBetting/Resources/PlayerModels/RavenGame.prefab
+  artifactKey: Guid(ccd1a9f353dd4a04abb768f7e9d4a4b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Resources/PlayerModels/RavenGame.prefab using Guid(ccd1a9f353dd4a04abb768f7e9d4a4b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '942d6b40c0eeae4650e550dac93ceb85') in 0.0715193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 331
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdNorth_2_3.asset
+  artifactKey: Guid(179a9a75b5c71a64da0977d524e0e79a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdNorth_2_3.asset using Guid(179a9a75b5c71a64da0977d524e0e79a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '50daf1653ed9fd8e88eee9b04fcdd23e') in 0.0323482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth_7_1.asset
+  artifactKey: Guid(f30e77228443c2a4c9da641176bf7c97) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth_7_1.asset using Guid(f30e77228443c2a4c9da641176bf7c97) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'de2f6f6d189e29b48a6dc850f823ec3f') in 0.0338072 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/BasketballBetting/Resources/PlayerModels/HawkGame.prefab
+  artifactKey: Guid(f7c2a181cbb73a441b12a9da2860a48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasketballBetting/Resources/PlayerModels/HawkGame.prefab using Guid(f7c2a181cbb73a441b12a9da2860a48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28bb5da8fa948dc80b977287291b849f') in 7.7382361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth.asset
+  artifactKey: Guid(246019593abd5ce478592365945f9746) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth.asset using Guid(246019593abd5ce478592365945f9746) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9f3cb2b9aa0ea9ae2a3dbf6f19ae21e7') in 0.1659014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdSouth_4_2.asset
+  artifactKey: Guid(774f15166f1a18a4e8ee7347fe19e368) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdSouth_4_2.asset using Guid(774f15166f1a18a4e8ee7347fe19e368) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8befa9880f724fc176bf296fd8f08662') in 0.0377762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdEast_7_0.asset
+  artifactKey: Guid(c48a0416b4227fa4883d97761c76fbb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdEast_7_0.asset using Guid(c48a0416b4227fa4883d97761c76fbb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e5c1cd9b25f7028df149264045043686') in 0.0367624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/BasketballBetting/Resources/PlayerModels/RavenGame.prefab
+  artifactKey: Guid(ccd1a9f353dd4a04abb768f7e9d4a4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasketballBetting/Resources/PlayerModels/RavenGame.prefab using Guid(ccd1a9f353dd4a04abb768f7e9d4a4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fab2f4e44c7325e088e64a537eb06ad') in 0.0718835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 335
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdWest_2_2.asset
+  artifactKey: Guid(85d044aa8f14ca148a15852afdff1bae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdWest_2_2.asset using Guid(85d044aa8f14ca148a15852afdff1bae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b921087e080bed0badee1744e5533421') in 0.0364842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/BasketballBetting/Art/Meshes/CrowdEast_6_1.asset
+  artifactKey: Guid(9f1fb807b386df74faa54931991f6e0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/BasketballBetting/Art/Meshes/CrowdEast_6_1.asset using Guid(9f1fb807b386df74faa54931991f6e0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6675053ff01a2ba5041f247ba04a5bee') in 0.0357206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Editor/CharacterMaterialTool.cs
+  artifactKey: Guid(daaefba9bb3cb7947be0ff25b9f7d1ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Editor/CharacterMaterialTool.cs using Guid(daaefba9bb3cb7947be0ff25b9f7d1ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2dfaa220fa2097e7324234bdcdcc313d') in 0.0141182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/BasketballBetting/Resources/PlayerModels/BlazePlayer.prefab
+  artifactKey: Guid(2e8797d1f3c458b4f9d708d4c4533fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasketballBetting/Resources/PlayerModels/BlazePlayer.prefab using Guid(2e8797d1f3c458b4f9d708d4c4533fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2da60b9e9bb5fee1b990d3e49c79bbdf') in 6.4528378 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 334
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

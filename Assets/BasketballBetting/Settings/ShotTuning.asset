@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f5b2e56906871e48b6f912c7be99502, type: 3}
+  m_Name: ShotTuning
+  m_EditorClassIdentifier: BasketballBetting.Runtime::BasketballBetting.Shooting.ShotTuning
+  Data:
+    MinFlightTime: 0.55
+    MaxFlightTime: 2.2
+    BackspinMin: 12
+    BackspinMax: 18
+    SwishEntry: {x: 49, y: 56}
+    HighArcEntry: {x: 56, y: 60}
+    RimInEntry: {x: 55, y: 62}
+    RattleEntry: {x: 54, y: 60}
+    BankEntry: {x: 42, y: 52}
+    SwishAlong: 0.025
+    SwishLateral: 0.035
+    RimInDepth: {x: 0.02, y: 0.05}
+    RattleLateral: {x: 0.06, y: 0.09}
+    BankLateral: {x: 0.04, y: 0.42}
+    BankHeight: {x: 0.22, y: 0.68}
+    ShortEntry: {x: 44, y: 52}
+    LongEntry: {x: 36, y: 44}
+    SideEntry: {x: 44, y: 52}
+    RimOutEntry: {x: 40, y: 46}
+    InAndOutEntry: {x: 50, y: 56}
+    BankMissEntry: {x: 44, y: 52}
+    AirBallEntry: {x: 40, y: 50}
+    ShortOutset: {x: 0.01, y: 0.06}
+    LongOutset: {x: 0, y: 0.05}
+    SideOutset: {x: 0.02, y: 0.09}
+    RimOutDepth: {x: 0, y: 0.04}
+    InAndOutDepth: {x: -0.02, y: 0.02}
+    InAndOutLateral: {x: 0.05, y: 0.09}
+    BankMissHeight: {x: 0.45, y: 0.85}
+    BankMissLateral: {x: 0.25, y: 0.6}
+    AirBallMiss: {x: 0.25, y: 0.45}
+    BlockTime: 0.11
+    BlockKick: {x: 1.25, y: 1.6, z: -4.1}
+    DeflectTime: 0.18
+    DeflectTip: {x: 2.6, y: 0.5, z: 0}
+    TrackP: 18
+    TrackD: 3.5
+    TrackMaxAccel: 2.5
+    FunnelAccel: 7
+    FunnelHorizontalDamp: 0.12
+    FunnelRadiusPad: 0.12
+    FunnelBelowPlane: 0.05
+    FunnelAbovePlane: 0.45
+    GuardAccel: 14
+    GuardMinExitSpeed: 1.6
+    ConfirmDepth: 0.25
+    MissDepth: 0.5
+    ThroughRevertTime: 0.5
+    ShotTimeout: 6

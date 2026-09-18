@@ -1,0 +1,94 @@
+{
+  "gameTitle": "HOOPS",
+  "gameSubtitle": "LIVE COURT BETTING",
+  "disclaimer": "This is a game of chance. Shot timing and player ratings are for presentation. They do not change your odds unless enabled in configuration.",
+  "responsiblePlayText": "Play responsibly. Set a budget before you start.",
+  "currencyCode": "USD",
+  "currencySymbol": "$",
+  "decimalPlaces": 2,
+  "startingBalance": 10000.0,
+  "minBet": 1.0,
+  "maxBet": 500.0,
+  "maxPayout": 5000.0,
+  "maxMultiplier": 10.0,
+  "rtp": 0.96,
+  "houseEdge": 0.04,
+  "oddsFormat": "decimal",
+  "showRtpToPlayer": false,
+  "showHouseEdgeToPlayer": false,
+  "timingMeterAffectsOdds": false,
+  "characterStatsAffectOdds": false,
+  "rngSeed": 0,
+  "meterDurationSeconds": 0.85,
+  "meterAutoReleaseCycles": 3,
+  "slowMotionScale": 0.28,
+  "slowMotionDuration": 0.55,
+  "betPresets": [ 1.0, 5.0, 10.0, 25.0, 50.0, 100.0 ],
+  "timingModifiers": {
+    "early": 0.0,
+    "good": 0.0,
+    "perfect": 0.0,
+    "late": 0.0
+  },
+  "characterModifiers": {
+    "shootingPerPoint": 0.0,
+    "accuracyPerPoint": 0.0,
+    "threePointPerPoint": 0.0,
+    "maxAbsoluteModifier": 0.0
+  },
+  "doubleOrNothing": {
+    "enabled": true,
+    "makeProbability": 0.45,
+    "payoutMultiplier": 2.0,
+    "label": "DOUBLE OR NOTHING"
+  },
+  "freeThrow": {
+    "displayName": "FREE THROW",
+    "tagline": "No defender. From the line. Cleaner and faster.",
+    "makeProbability": 0.48,
+    "payoutMultiplier": 2.0,
+    "blockShareOfMisses": 0.0,
+    "deflectionShareOfMisses": 0.0,
+    "winAnimations": [
+      { "id": "Swish", "weight": 28 },
+      { "id": "RimIn", "weight": 24 },
+      { "id": "BackboardIn", "weight": 18 },
+      { "id": "MultiRimIn", "weight": 16 },
+      { "id": "HighArc", "weight": 14 }
+    ],
+    "loseAnimations": [
+      { "id": "RimOut", "weight": 20 },
+      { "id": "BackRimMiss", "weight": 14 },
+      { "id": "InAndOut", "weight": 20 },
+      { "id": "BackboardMiss", "weight": 14 },
+      { "id": "AirBall", "weight": 32 }
+    ]
+  },
+  "threePoint": {
+    "displayName": "THREE-POINT",
+    "tagline": "Active defender. Five spots. Blocks and contests.",
+    "makeProbability": 0.32,
+    "payoutMultiplier": 3.0,
+    "blockShareOfMisses": 0.22,
+    "deflectionShareOfMisses": 0.16,
+    "winAnimations": [
+      { "id": "Swish", "weight": 18 },
+      { "id": "RimIn", "weight": 18 },
+      { "id": "BackboardIn", "weight": 12 },
+      { "id": "MultiRimIn", "weight": 14 },
+      { "id": "HighArc", "weight": 12 },
+      { "id": "ContestedMake", "weight": 16 },
+      { "id": "BuzzerStyle", "weight": 10 }
+    ],
+    "loseAnimations": [
+      { "id": "RimOut", "weight": 14 },
+      { "id": "BackRimMiss", "weight": 10 },
+      { "id": "InAndOut", "weight": 14 },
+      { "id": "BackboardMiss", "weight": 10 },
+      { "id": "AirBall", "weight": 24 },
+      { "id": "DefenderBlock", "weight": 18 },
+      { "id": "DefenderDeflection", "weight": 14 }
+    ]
+  }
+}
+
